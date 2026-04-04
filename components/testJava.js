@@ -1,0 +1,10 @@
+const name="amjad"
+const lastname= "alsayed"
+var age=12
+const year=2014
+const is18=age>18
+const numbur1=4
+const number2=5
+const number3=3
+const sum=numbur1+number2
+const fact=number1+number3
