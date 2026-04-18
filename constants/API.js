@@ -1,4 +1,4 @@
-export const baseUrl = "https://my-app-server-dv9s.onrender.com";
+export const baseUrl = "https://hasan-server.onrender.com"
 
 export const fetchApi = async (route, method = 'GET', body = null) => {
   try {

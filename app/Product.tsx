@@ -97,7 +97,7 @@ const styles = StyleSheet.create({
     img: {
         height: 300,
         width: '100%',
-        //resizeMode: 'contain'
+        resizeMode: 'contain'
     },
     info: {
         height: '10%',
